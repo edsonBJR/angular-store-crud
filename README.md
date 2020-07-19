@@ -1,5 +1,5 @@
 # Aplicaço Frontend Angular
-## Strore CRUD
+## Store CRUD
 
 Angular
 Typescript
